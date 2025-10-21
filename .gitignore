@@ -1,0 +1,10 @@
+# Abaikan file model dan gambar
+*.pkl
+*.png
+
+# Abaikan folder konfigurasi VSCode (nggak wajib, tapi biasanya nggak perlu diupload)
+.vscode/
+
+# Abaikan folder sementara Python
+__pycache__/
+*.pyc
